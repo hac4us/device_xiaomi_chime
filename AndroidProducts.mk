@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_chime.mk
+    $(LOCAL_DIR)/derp_chime.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_chime-user \
-    aosp_chime-userdebug \
-    aosp_chime-eng
+    derp_chime-user \
+    derp_chime-userdebug \
+    derp_chime-eng
